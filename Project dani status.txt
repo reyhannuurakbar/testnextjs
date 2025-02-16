@@ -1,0 +1,20 @@
+Project dani status 
+Format Kasar
+
+Header:
+- Highlights V
+- About V
+- Services (gambar-gambar) V
+- galeri V
+- Contact us V
+
+
+Contact us
+- Connect chat to WA x
+- Rechapcha x
+- Maps x cari
+
+Footer x
+
+Format css x
+Pilih gambar x
